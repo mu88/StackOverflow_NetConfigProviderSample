@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFrameworkConsole", "NetFrameworkConsole\NetFrameworkConsole.csproj", "{EECF7781-13C1-4CD9-950E-C9C8365879C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreConsole", "NetCoreConsole\NetCoreConsole.csproj", "{3514ED6B-8941-42E5-BC76-5232B4540820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D0F93BA5-4D0A-45EC-A94C-721117AD7961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECF7781-13C1-4CD9-950E-C9C8365879C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECF7781-13C1-4CD9-950E-C9C8365879C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECF7781-13C1-4CD9-950E-C9C8365879C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECF7781-13C1-4CD9-950E-C9C8365879C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3514ED6B-8941-42E5-BC76-5232B4540820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3514ED6B-8941-42E5-BC76-5232B4540820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3514ED6B-8941-42E5-BC76-5232B4540820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3514ED6B-8941-42E5-BC76-5232B4540820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F93BA5-4D0A-45EC-A94C-721117AD7961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F93BA5-4D0A-45EC-A94C-721117AD7961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F93BA5-4D0A-45EC-A94C-721117AD7961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F93BA5-4D0A-45EC-A94C-721117AD7961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
